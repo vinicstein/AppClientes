@@ -1,0 +1,15 @@
+# Arquivos gerados pelo .NET
+bin/
+obj/
+
+# Configurações locais de IDE
+.vs/
+.vscode/
+
+# Arquivos temporários
+*.user
+*.suo
+*.tmp
+
+# Logs
+*.log
